@@ -1,1 +1,1 @@
-# frm-voltrod
+# frm-mw-diode-detector
