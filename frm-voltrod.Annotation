@@ -1,0 +1,22 @@
+[DesignatorManager]
+
+[SheetNumberManager]
+SheetNumberOrder=Sheets Hierarchical Structure - Depth First
+SheetNumberMethod=Increasing
+DocumentName0=frm-voltrod.SchDoc
+UniqueIDPath0=
+SheetNumber0=1
+DocumentName1=analog_input.SchDoc
+UniqueIDPath1=\JFZHSCYB
+SheetNumber1=2
+DocumentName2=analog_input.SchDoc
+UniqueIDPath2=\XOGZCAPS
+SheetNumber2=3
+DocumentName3=LEDs.SchDoc
+UniqueIDPath3=\XIARQPCH
+SheetNumber3=4
+DocumentName4=LEDs.SchDoc
+UniqueIDPath4=\RCYAJDZX
+SheetNumber4=5
+
+
