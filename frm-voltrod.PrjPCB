@@ -297,6 +297,18 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LZLJQXQM
 
+[ProjectVariant1]
+UniqueID=8F19FFE3-41B9-4F28-8CEA-10404B2679F1
+Description=MAIN
+AllowFabrication=0
+ParameterCount=0
+VariationCount=4
+Variation1=Designator=R13A|UniqueId=\GVBEIAZX\XZDAAFVZ\FVGHQLNV|Kind=1|AlternatePart= 
+Variation2=Designator=R25A|UniqueId=\GVBEIAZX\XZDAAFVZ\UUWRFLJV|Kind=1|AlternatePart= 
+Variation3=Designator=R13B|UniqueId=\XCZFJYFL\XZDAAFVZ\FVGHQLNV|Kind=1|AlternatePart= 
+Variation4=Designator=R25B|UniqueId=\XCZFJYFL\XZDAAFVZ\UUWRFLJV|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
 [Parameter1]
 Name=ProjectTitle
 Value=FRM-VOLTROD
@@ -378,12 +390,12 @@ SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangl
 SCH_ShowNote=-1
 SCH_ShowNoteCollapsed=-1
 SCH_ExpandLogicalToPhysical=0
-SCH_VariantName=[No Variations]
+SCH_VariantName=MAIN
 SCH_ExpandComponentDesignators=-1
 SCH_ExpandNetlabels=0
-SCH_ExpandPorts=0
-SCH_ExpandSheetNumber=0
-SCH_ExpandDocumentNumber=0
+SCH_ExpandPorts=-1
+SCH_ExpandSheetNumber=-1
+SCH_ExpandDocumentNumber=-1
 SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
