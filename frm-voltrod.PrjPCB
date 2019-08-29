@@ -43,23 +43,6 @@ ReleaseFolderPath=[OutputPath]
 ReleaseZipPath=[OutputPath][ProjectName].zip
 
 [Document1]
-DocumentPath=frm-voltrod.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SROIDWTK
-
-[Document2]
 DocumentPath=002_DevSchematics.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -76,7 +59,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document3]
+[Document2]
 DocumentPath=020_Fabrication.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -93,7 +76,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document4]
+[Document3]
 DocumentPath=030_Assembly.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -110,7 +93,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document4]
 DocumentPath=MECHANICAL.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -127,7 +110,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document5]
 DocumentPath=PCBA.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -144,7 +127,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document6]
 DocumentPath=PCBM.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -161,7 +144,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document7]
 DocumentPath=000_Dev.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -178,7 +161,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document9]
+[Document8]
 DocumentPath=001_DevMechanical.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -195,7 +178,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document9]
 DocumentPath=frm-voltrod.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -212,7 +195,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document11]
+[Document10]
 DocumentPath=frm-voltrod.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -229,7 +212,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document11]
 DocumentPath=frm-voltrod_4LED.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -246,7 +229,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KPKTLMJY
 
-[Document13]
+[Document12]
 DocumentPath=frm-voltrod_AFE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -263,7 +246,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TLRXXNON
 
-[Document14]
+[Document13]
 DocumentPath=frm-voltrod_channel.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -280,7 +263,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CTWXPAUB
 
-[Document15]
+[Document14]
 DocumentPath=frm-voltrod_main.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -296,6 +279,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LZLJQXQM
+
+[Document15]
+DocumentPath=frm-voltrod.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YDGNYLDN
 
 [ProjectVariant1]
 UniqueID=8F19FFE3-41B9-4F28-8CEA-10404B2679F1
