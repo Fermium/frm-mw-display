@@ -72,23 +72,6 @@ GenerateClassCluster=0
 DocumentUniqueId=IRMSKHGZ
 
 [Document3]
-DocumentPath=..\..\..\..\..\altium-libraries\frmdblib\Footprints\Graphical\FERMIUM_LTD_LOGO_SILKSCREEN_10.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VVLCVXFE
-
-[Document4]
 DocumentPath=Main.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
