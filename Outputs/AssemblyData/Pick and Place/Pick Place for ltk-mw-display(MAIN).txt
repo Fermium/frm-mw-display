@@ -1,0 +1,246 @@
+Altium Designer Pick and Place Locations
+C:\Users\Shadow\Desktop\Repos\frm-mw-display\Project Outputs for Combined\AssemblyData\Pick and Place\Pick Place for ltk-mw-display(MAIN).txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       30/10/23
+Time:       15:18
+Revision:   7b611da51e4d80a422afe5d524f4894da2be3bbe
+Variant:    MAIN
+Units used: mil
+
+Center-X(mil) Center-Y(mil) Comment              Description                                            Designator Footprint                            Layer    Rotation 
+1576.244      2150.000      "BANANA 4MM RED"     "CONN BANANA SOCKET 4MM RED"                           P6         2382AA2C-2335-4562-94C7-3B9045982126 TopLayer 0        
+2326.244      2150.000      "BANANA 4MM BLACK"   "CONN BANANA SOCKET 4MM BLACK"                         P7         2382AA2C-2335-4562-94C7-3B9045982126 TopLayer 0        
+826.244       2150.000      "BANANA 4MM RED"     "CONN BANANA SOCKET 4MM RED"                           P4         2382AA2C-2335-4562-94C7-3B9045982126 TopLayer 0        
+780.000       358.426       MPZ1608S102ATA00     "FER SMD CHIP 0603 800mA 1K@100MHz 300mOhm"            L2         FER_0603_1608                        TopLayer 0        
+2304.016      500.000       L78M05ABDT-TR        "IC SMD LINEAR VOLTAGE REGULATOR 5V 500mA DPAK/TO-252" U5         4BDA507D-BB70-4009-B963-85AD90086B51 TopLayer 360      
+2010.000      410.000       10uF                 "CAP SMD MLCC 10uF 25V 0805 X5R"                       C12        CAP_0805_2012                        TopLayer 180      
+2010.000      590.000       10uF                 "CAP SMD MLCC 10uF 25V 0805 X5R"                       C11        CAP_0805_2012                        TopLayer 180      
+1270.290      490.472       L78M05ABDT-TR        "IC SMD LINEAR VOLTAGE REGULATOR 5V 500mA DPAK/TO-252" U4         4BDA507D-BB70-4009-B963-85AD90086B51 TopLayer 180      
+2406.694      931.103       LM324DT              "IC SMD OPAMP LM324DT SO-14"                           U3B        34355DA5-B1DA-47C2-A88A-ECF82120A4F7 TopLayer 0        
+2406.693      1561.024      LM324DT              "IC SMD OPAMP LM324DT SO-14"                           U3A        34355DA5-B1DA-47C2-A88A-ECF82120A4F7 TopLayer 0        
+1576.693      921.101       LM324DT              "IC SMD OPAMP LM324DT SO-14"                           U2B        34355DA5-B1DA-47C2-A88A-ECF82120A4F7 TopLayer 0        
+1576.693      1551.024      LM324DT              "IC SMD OPAMP LM324DT SO-14"                           U2A        34355DA5-B1DA-47C2-A88A-ECF82120A4F7 TopLayer 0        
+2634.331      2943.070      LM324DT              "IC SMD OPAMP LM324DT SO-14"                           U1J        34355DA5-B1DA-47C2-A88A-ECF82120A4F7 TopLayer 0        
+2634.331      4045.432      LM324DT              "IC SMD OPAMP LM324DT SO-14"                           U1I        34355DA5-B1DA-47C2-A88A-ECF82120A4F7 TopLayer 0        
+2634.331      5147.794      LM324DT              "IC SMD OPAMP LM324DT SO-14"                           U1H        34355DA5-B1DA-47C2-A88A-ECF82120A4F7 TopLayer 0        
+2634.331      6250.158      LM324DT              "IC SMD OPAMP LM324DT SO-14"                           U1G        34355DA5-B1DA-47C2-A88A-ECF82120A4F7 TopLayer 0        
+2634.331      7352.520      LM324DT              "IC SMD OPAMP LM324DT SO-14"                           U1F        34355DA5-B1DA-47C2-A88A-ECF82120A4F7 TopLayer 0        
+1650.079      2943.070      LM324DT              "IC SMD OPAMP LM324DT SO-14"                           U1E        34355DA5-B1DA-47C2-A88A-ECF82120A4F7 TopLayer 0        
+1650.079      4045.432      LM324DT              "IC SMD OPAMP LM324DT SO-14"                           U1D        34355DA5-B1DA-47C2-A88A-ECF82120A4F7 TopLayer 0        
+1650.079      5147.794      LM324DT              "IC SMD OPAMP LM324DT SO-14"                           U1C        34355DA5-B1DA-47C2-A88A-ECF82120A4F7 TopLayer 0        
+1650.079      6250.158      LM324DT              "IC SMD OPAMP LM324DT SO-14"                           U1B        34355DA5-B1DA-47C2-A88A-ECF82120A4F7 TopLayer 0        
+1650.079      7352.520      LM324DT              "IC SMD OPAMP LM324DT SO-14"                           U1A        34355DA5-B1DA-47C2-A88A-ECF82120A4F7 TopLayer 0        
+770.000       558.424       499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R32        RES_1206_3216                        TopLayer 270      
+2606.694      801.104       1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R31B       RES_0603_1608                        TopLayer 90       
+2606.694      1431.024      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R31A       RES_0603_1608                        TopLayer 90       
+1766.693      921.102       100K                 "RES SMD 100K OHM 1% 1/10W 0603"                       R30B       RES_0603_1608                        TopLayer 270      
+1766.694      1551.024      100K                 "RES SMD 100K OHM 1% 1/10W 0603"                       R30A       RES_0603_1608                        TopLayer 270      
+2136.693      931.103       1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R29B       RES_0603_1608                        TopLayer 270      
+2136.694      1561.024      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R29A       RES_0603_1608                        TopLayer 270      
+1246.694      1166.300      0                    "RES SMD 0 OHM 5% 1/10W 0603"                          R28B       RES_0603_1608                        TopLayer 90       
+1246.694      1796.222      0                    "RES SMD 0 OHM 5% 1/10W 0603"                          R28A       RES_0603_1608                        TopLayer 90       
+1766.693      791.103       10K                  "RES SMD 10K OHM 1% 1/10W 0603"                        R27B       RES_0603_1608                        TopLayer 270      
+1766.694      1421.024      10K                  "RES SMD 10K OHM 1% 1/10W 0603"                        R27A       RES_0603_1608                        TopLayer 270      
+2066.693      1051.102      10K                  "RES SMD 10K OHM 1% 1/10W 0603"                        R26B       RES_0603_1608                        TopLayer 270      
+2066.694      1681.024      10K                  "RES SMD 10K OHM 1% 1/10W 0603"                        R26A       RES_0603_1608                        TopLayer 270      
+2134.757      1050.079      10K                  "RES SMD 10K OHM 1% 1/10W 0603"                        R24B       RES_0603_1608                        TopLayer 270      
+2134.755      1680.000      10K                  "RES SMD 10K OHM 1% 1/10W 0603"                        R24A       RES_0603_1608                        TopLayer 270      
+2196.694      781.103       1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R23B       RES_0603_1608                        TopLayer 180      
+2196.693      1411.024      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R23A       RES_0603_1608                        TopLayer 180      
+1996.693      1051.103      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R22B       RES_0603_1608                        TopLayer 90       
+1996.694      1681.024      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R22A       RES_0603_1608                        TopLayer 90       
+954.725       1063.465      "10K LIN"            "POT 10K 20% SHAFT 6mmx7.4mm LIN"                      R21B       2EF88547-EDEF-4A49-A522-C215618D4BC7 TopLayer 180      
+954.725       1693.386      "10K LIN"            "POT 10K 20% SHAFT 6mmx7.4mm LIN"                      R21A       2EF88547-EDEF-4A49-A522-C215618D4BC7 TopLayer 180      
+1846.694      921.102       100K                 "RES SMD 100K OHM 1% 1/10W 0603"                       R20B       RES_0603_1608                        TopLayer 90       
+1846.694      1551.024      100K                 "RES SMD 100K OHM 1% 1/10W 0603"                       R20A       RES_0603_1608                        TopLayer 90       
+1316.692      1051.102      10K                  "RES SMD 10K OHM 1% 1/10W 0603"                        R19B       RES_0603_1608                        TopLayer 90       
+1316.694      1681.024      10K                  "RES SMD 10K OHM 1% 1/10W 0603"                        R19A       RES_0603_1608                        TopLayer 90       
+1926.694      1051.103      100K                 "RES SMD 100K OHM 1% 1/10W 0603"                       R18B       RES_0603_1608                        TopLayer 90       
+1926.694      1681.024      100K                 "RES SMD 100K OHM 1% 1/10W 0603"                       R18A       RES_0603_1608                        TopLayer 90       
+1386.692      1166.300      0                    "RES SMD 0 OHM 5% 1/10W 0603"                          R17B       RES_0603_1608                        TopLayer 90       
+1386.694      1796.222      0                    "RES SMD 0 OHM 5% 1/10W 0603"                          R17A       RES_0603_1608                        TopLayer 90       
+516.694       741.102       1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R16B       RES_0603_1608                        TopLayer 270      
+516.694       1371.024      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R16A       RES_0603_1608                        TopLayer 270      
+2206.694      1051.103      10K                  "RES SMD 10K OHM 1% 1/10W 0603"                        R15B       RES_0603_1608                        TopLayer 90       
+2206.694      1681.024      10K                  "RES SMD 10K OHM 1% 1/10W 0603"                        R15A       RES_0603_1608                        TopLayer 90       
+2206.694      931.103       10K                  "RES SMD 10K OHM 1% 1/10W 0603"                        R14B       RES_0603_1608                        TopLayer 90       
+2206.694      1561.024      10K                  "RES SMD 10K OHM 1% 1/10W 0603"                        R14A       RES_0603_1608                        TopLayer 90       
+1351.684      807.017       100K                 "RES SMD 100K OHM 1% 1/10W 0603"                       R12B       RES_0603_1608                        TopLayer 270      
+1351.686      1436.938      100K                 "RES SMD 100K OHM 1% 1/10W 0603"                       R12A       RES_0603_1608                        TopLayer 270      
+1281.686      807.018       1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R11B       RES_0603_1608                        TopLayer 270      
+1281.686      1436.938      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R11A       RES_0603_1608                        TopLayer 270      
+1386.693      1051.103      10K                  "RES SMD 10K OHM 1% 1/10W 0603"                        R10B       RES_0603_1608                        TopLayer 90       
+1386.694      1681.024      10K                  "RES SMD 10K OHM 1% 1/10W 0603"                        R10A       RES_0603_1608                        TopLayer 90       
+1766.694      1051.104      100K                 "RES SMD 100K OHM 1% 1/10W 0603"                       R9B        RES_0603_1608                        TopLayer 90       
+1766.694      1681.024      100K                 "RES SMD 100K OHM 1% 1/10W 0603"                       R9A        RES_0603_1608                        TopLayer 90       
+2263.780      2500.000      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R8J        RES_1206_3216                        TopLayer 270      
+2263.780      3602.362      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R8I        RES_1206_3216                        TopLayer 270      
+2263.780      4704.724      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R8H        RES_1206_3216                        TopLayer 270      
+2263.780      5807.084      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R8G        RES_1206_3216                        TopLayer 270      
+2263.780      6909.446      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R8F        RES_1206_3216                        TopLayer 270      
+1279.528      2500.000      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R8E        RES_1206_3216                        TopLayer 270      
+1279.528      3602.362      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R8D        RES_1206_3216                        TopLayer 270      
+1279.528      4704.724      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R8C        RES_1206_3216                        TopLayer 270      
+1279.528      5807.084      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R8B        RES_1206_3216                        TopLayer 270      
+1279.528      6909.446      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R8A        RES_1206_3216                        TopLayer 270      
+2379.450      2759.685      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R7J        RES_0603_1608                        TopLayer 270      
+2379.450      3862.047      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R7I        RES_0603_1608                        TopLayer 270      
+2379.450      4964.409      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R7H        RES_0603_1608                        TopLayer 270      
+2379.450      6066.771      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R7G        RES_0603_1608                        TopLayer 270      
+2379.450      7169.134      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R7F        RES_0603_1608                        TopLayer 270      
+1395.198      2759.685      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R7E        RES_0603_1608                        TopLayer 270      
+1395.198      3862.047      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R7D        RES_0603_1608                        TopLayer 270      
+1395.198      4964.409      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R7C        RES_0603_1608                        TopLayer 270      
+1395.198      6066.771      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R7B        RES_0603_1608                        TopLayer 270      
+1395.198      7169.134      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R7A        RES_0603_1608                        TopLayer 270      
+2263.780      2775.590      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R6J        RES_1206_3216                        TopLayer 270      
+2263.780      3877.952      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R6I        RES_1206_3216                        TopLayer 270      
+2263.780      4980.314      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R6H        RES_1206_3216                        TopLayer 270      
+2263.780      6082.676      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R6G        RES_1206_3216                        TopLayer 270      
+2263.780      7185.039      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R6F        RES_1206_3216                        TopLayer 270      
+1279.528      2775.590      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R6E        RES_1206_3216                        TopLayer 270      
+1279.528      3877.952      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R6D        RES_1206_3216                        TopLayer 270      
+1279.528      4980.314      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R6C        RES_1206_3216                        TopLayer 270      
+1279.528      6082.676      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R6B        RES_1206_3216                        TopLayer 270      
+1279.528      7185.039      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R6A        RES_1206_3216                        TopLayer 270      
+2379.450      2869.685      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R5J        RES_0603_1608                        TopLayer 270      
+2379.450      3972.047      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R5I        RES_0603_1608                        TopLayer 270      
+2379.450      5074.409      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R5H        RES_0603_1608                        TopLayer 270      
+2379.450      6176.771      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R5G        RES_0603_1608                        TopLayer 270      
+2379.450      7279.134      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R5F        RES_0603_1608                        TopLayer 270      
+1395.198      2869.685      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R5E        RES_0603_1608                        TopLayer 270      
+1395.198      3972.047      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R5D        RES_0603_1608                        TopLayer 270      
+1395.198      5074.409      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R5C        RES_0603_1608                        TopLayer 270      
+1395.198      6176.771      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R5B        RES_0603_1608                        TopLayer 270      
+1395.198      7279.134      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R5A        RES_0603_1608                        TopLayer 270      
+2263.780      3051.180      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R4J        RES_1206_3216                        TopLayer 270      
+2263.780      4153.543      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R4I        RES_1206_3216                        TopLayer 270      
+2263.780      5255.906      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R4H        RES_1206_3216                        TopLayer 270      
+2263.780      6358.268      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R4G        RES_1206_3216                        TopLayer 270      
+2263.780      7460.630      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R4F        RES_1206_3216                        TopLayer 270      
+1279.528      3051.180      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R4E        RES_1206_3216                        TopLayer 270      
+1279.528      4153.543      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R4D        RES_1206_3216                        TopLayer 270      
+1279.528      5255.906      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R4C        RES_1206_3216                        TopLayer 270      
+1279.528      6358.268      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R4B        RES_1206_3216                        TopLayer 270      
+1279.528      7460.630      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R4A        RES_1206_3216                        TopLayer 270      
+2379.450      2979.685      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R3J        RES_0603_1608                        TopLayer 270      
+2379.450      4082.047      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R3I        RES_0603_1608                        TopLayer 270      
+2379.450      5184.409      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R3H        RES_0603_1608                        TopLayer 270      
+2379.450      6286.771      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R3G        RES_0603_1608                        TopLayer 270      
+2379.450      7389.134      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R3F        RES_0603_1608                        TopLayer 270      
+1395.198      2979.685      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R3E        RES_0603_1608                        TopLayer 270      
+1395.198      4082.047      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R3D        RES_0603_1608                        TopLayer 270      
+1395.198      5184.409      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R3C        RES_0603_1608                        TopLayer 270      
+1395.198      6286.771      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R3B        RES_0603_1608                        TopLayer 270      
+1395.198      7389.134      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R3A        RES_0603_1608                        TopLayer 270      
+2263.780      3326.772      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R2J        RES_1206_3216                        TopLayer 270      
+2263.780      4429.134      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R2I        RES_1206_3216                        TopLayer 270      
+2263.780      5531.496      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R2H        RES_1206_3216                        TopLayer 270      
+2263.780      6633.858      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R2G        RES_1206_3216                        TopLayer 270      
+2263.780      7736.220      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R2F        RES_1206_3216                        TopLayer 270      
+1279.528      3326.772      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R2E        RES_1206_3216                        TopLayer 270      
+1279.528      4429.134      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R2D        RES_1206_3216                        TopLayer 270      
+1279.528      5531.496      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R2C        RES_1206_3216                        TopLayer 270      
+1279.528      6633.858      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R2B        RES_1206_3216                        TopLayer 270      
+1279.528      7736.220      499                  "RES SMD 499 OHM 1% 1/4W 1206"                         R2A        RES_1206_3216                        TopLayer 270      
+2379.450      3089.685      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R1J        RES_0603_1608                        TopLayer 270      
+2379.450      4192.047      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R1I        RES_0603_1608                        TopLayer 270      
+2379.450      5294.409      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R1H        RES_0603_1608                        TopLayer 270      
+2379.450      6396.771      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R1G        RES_0603_1608                        TopLayer 270      
+2379.450      7499.134      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R1F        RES_0603_1608                        TopLayer 270      
+1395.198      3089.685      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R1E        RES_0603_1608                        TopLayer 270      
+1395.198      4192.047      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R1D        RES_0603_1608                        TopLayer 270      
+1395.198      5294.409      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R1C        RES_0603_1608                        TopLayer 270      
+1395.198      6396.771      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R1B        RES_0603_1608                        TopLayer 270      
+1395.198      7499.134      1K                   "RES SMD 1K OHM 1% 1/10W 0603"                         R1A        RES_0603_1608                        TopLayer 270      
+2933.071      1299.212      PJ-3900-04           "CONN THT 3.5mm AUDIO STEREO AUX SWITCH"               P8         7EF2B92C-0FC9-4C85-B662-5CEC65BFCCC4 TopLayer 180      
+216.535       984.253       PJ-3900-04           "CONN THT 3.5mm AUDIO STEREO AUX SWITCH"               P5         7EF2B92C-0FC9-4C85-B662-5CEC65BFCCC4 TopLayer 360      
+216.537       1614.173      PJ-3900-04           "CONN THT 3.5mm AUDIO STEREO AUX SWITCH"               P3         7EF2B92C-0FC9-4C85-B662-5CEC65BFCCC4 TopLayer 360      
+279.527       400.591       DC-005A-20A          "CONN THT DC JACK 0.5A 30VDC 5Kcycles"                 P1         F0972D8A-C5C0-4A84-836D-A9666EE65C2D TopLayer 360      
+2798.583      551.182       292303-1             "CONN THT USB TYPE-A HIGH RELIABILITY"                 P2         8A51F738-712D-4EE5-9D6B-BB16603F834E TopLayer 90       
+780.001       428.426       MPZ1608S102ATA00     "FER SMD CHIP 0603 800mA 1K@100MHz 300mOhm"            L1         FER_0603_1608                        TopLayer 0        
+-3484.252     -2421.260     "FermiumLABS logo"   "GRAPHICS LOGO FERMIUM LABS SRL"                       GR1        5394DE47-A0E8-4329-8464-7791B7C19310 TopLayer 360      
+2637.794      118.110       "IPC-7351A FIDUCIAL" "GRAPHICS FIDUCIAL IPC-7351A"                          FD3        FIDUCIAL-IPC-7351A                   TopLayer 0        
+511.812       118.110       "IPC-7351A FIDUCIAL" "GRAPHICS FIDUCIAL IPC-7351A"                          FD2        FIDUCIAL-IPC-7351A                   TopLayer 0        
+511.810       1968.504      "IPC-7351A FIDUCIAL" "GRAPHICS FIDUCIAL IPC-7351A"                          FD1        FIDUCIAL-IPC-7351A                   TopLayer 0        
+580.000       488.426       "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D11        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 270      
+1966.694      891.103       1N4148W-TP           "DIODE SMD 100V 150mA 1.5Vf SOD-123 4148"              D10B       SOD-123                              TopLayer 270      
+1966.694      1521.024      1N4148W-TP           "DIODE SMD 100V 150mA 1.5Vf SOD-123 4148"              D10A       SOD-123                              TopLayer 270      
+2056.694      891.103       1N4148W-TP           "DIODE SMD 100V 150mA 1.5Vf SOD-123 4148"              D9B        SOD-123                              TopLayer 270      
+2056.694      1521.024      1N4148W-TP           "DIODE SMD 100V 150mA 1.5Vf SOD-123 4148"              D9A        SOD-123                              TopLayer 270      
+2606.694      941.102       5V                   "DIODE SMD TVS 5V BIDIRECTIONAL SOD-523"               D8B        SOD523F                              TopLayer 270      
+2606.694      1571.023      5V                   "DIODE SMD TVS 5V BIDIRECTIONAL SOD-523"               D8A        SOD523F                              TopLayer 270      
+516.694       881.104       5V                   "DIODE SMD TVS 5V BIDIRECTIONAL SOD-523"               D7B        SOD523F                              TopLayer 270      
+516.694       1511.023      5V                   "DIODE SMD TVS 5V BIDIRECTIONAL SOD-523"               D7A        SOD523F                              TopLayer 270      
+1838.744      1183.843      1N4148W-TP           "DIODE SMD 100V 150mA 1.5Vf SOD-123 4148"              D6B        SOD-123                              TopLayer 360      
+1838.252      1805.307      1N4148W-TP           "DIODE SMD 100V 150mA 1.5Vf SOD-123 4148"              D6A        SOD-123                              TopLayer 360      
+1638.744      1183.843      1N4148W-TP           "DIODE SMD 100V 150mA 1.5Vf SOD-123 4148"              D5B        SOD-123                              TopLayer 360      
+1638.252      1805.307      1N4148W-TP           "DIODE SMD 100V 150mA 1.5Vf SOD-123 4148"              D5A        SOD-123                              TopLayer 360      
+2066.930      2500.000      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D4J        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+2066.930      3602.362      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D4I        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+2066.930      4704.724      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D4H        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+2066.930      5807.086      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D4G        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+2066.930      6909.448      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D4F        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+1082.678      2500.000      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D4E        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+1082.678      3602.362      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D4D        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+1082.678      4704.724      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D4C        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+1082.678      5807.086      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D4B        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+1082.678      6909.448      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D4A        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+2066.930      2775.590      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D3J        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+2066.930      3877.952      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D3I        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+2066.930      4980.314      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D3H        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+2066.930      6082.676      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D3G        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+2066.930      7185.040      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D3F        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+1082.678      2775.590      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D3E        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+1082.678      3877.952      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D3D        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+1082.678      4980.314      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D3C        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+1082.678      6082.676      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D3B        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+1082.678      7185.040      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D3A        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+2066.930      3051.180      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D2J        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+2066.930      4153.544      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D2I        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+2066.930      5255.906      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D2H        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+2066.930      6358.268      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D2G        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+2066.930      7460.630      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D2F        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+1082.678      3051.180      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D2E        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+1082.678      4153.544      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D2D        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+1082.678      5255.906      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D2C        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+1082.678      6358.268      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D2B        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+1082.678      7460.630      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D2A        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+2066.930      3326.772      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D1J        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+2066.930      4429.134      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D1I        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+2066.930      5531.496      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D1H        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+2066.930      6633.858      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D1G        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+2066.930      7736.220      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D1F        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+1082.678      3326.772      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D1E        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+1082.678      4429.134      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D1D        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+1082.678      5531.496      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D1C        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+1082.678      6633.858      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D1B        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+1082.678      7736.220      "RED 200mcd"         "DIODE LED THT 5MM RED 200mcd"                         D1A        ED49B4F6-595F-4D62-96BB-D7184CAA9B94 TopLayer 0        
+1541.496      578.426       10uF                 "CAP SMD MLCC 10uF 25V 0805 X5R"                       C10        CAP_0805_2012                        TopLayer 0        
+1540.001      398.426       10uF                 "CAP SMD MLCC 10uF 25V 0805 X5R"                       C9         CAP_0805_2012                        TopLayer 0        
+890.000       447.638       220uF                "CAP  THT ELEC 220uF 25V 20%"                          C8         3924B366-8672-45E9-B0BE-62DACC24E783 TopLayer 90       
+1856.694      791.103       10uF                 "CAP SMD MLCC 10uF 25V 0805 X5R"                       C7B        CAP_0805_2012                        TopLayer 90       
+1856.694      1421.024      10uF                 "CAP SMD MLCC 10uF 25V 0805 X5R"                       C7A        CAP_0805_2012                        TopLayer 90       
+586.694       741.102       1nF                  "CAP SMD MLCC 1nF 50V 0603 X7R"                        C6B        CAP_0603_1608                        TopLayer 270      
+586.694       1371.023      1nF                  "CAP SMD MLCC 1nF 50V 0603 X7R"                        C6A        CAP_0603_1608                        TopLayer 270      
+1846.693      1051.103      10uF                 "CAP SMD MLCC 10uF 25V 0805 X5R"                       C5B        CAP_0805_2012                        TopLayer 270      
+1846.694      1681.024      10uF                 "CAP SMD MLCC 10uF 25V 0805 X5R"                       C5A        CAP_0805_2012                        TopLayer 270      
+596.694       881.103       10uF                 "CAP SMD MLCC 10uF 25V 0805 X5R"                       C4B        CAP_0805_2012                        TopLayer 90       
+596.694       1511.024      10uF                 "CAP SMD MLCC 10uF 25V 0805 X5R"                       C4A        CAP_0805_2012                        TopLayer 90       
+2406.694      1151.103      100nF                "CAP SMD MLCC 100nF 25V 0603 X7R"                      C3B        CAP_0603_1608                        TopLayer 0        
+2406.693      1781.024      100nF                "CAP SMD MLCC 100nF 25V 0603 X7R"                      C3A        CAP_0603_1608                        TopLayer 0        
+1586.693      711.103       100nF                "CAP SMD MLCC 100nF 25V 0603 X7R"                      C2B        CAP_0603_1608                        TopLayer 0        
+1586.693      1341.024      100nF                "CAP SMD MLCC 100nF 25V 0603 X7R"                      C2A        CAP_0603_1608                        TopLayer 0        
+2639.449      3159.684      100nF                "CAP SMD MLCC 100nF 25V 0603 X7R"                      C1J        CAP_0603_1608                        TopLayer 0        
+2639.449      4262.046      100nF                "CAP SMD MLCC 100nF 25V 0603 X7R"                      C1I        CAP_0603_1608                        TopLayer 0        
+2639.449      5364.410      100nF                "CAP SMD MLCC 100nF 25V 0603 X7R"                      C1H        CAP_0603_1608                        TopLayer 0        
+2639.449      6466.772      100nF                "CAP SMD MLCC 100nF 25V 0603 X7R"                      C1G        CAP_0603_1608                        TopLayer 0        
+2639.449      7569.134      100nF                "CAP SMD MLCC 100nF 25V 0603 X7R"                      C1F        CAP_0603_1608                        TopLayer 0        
+1655.197      3159.684      100nF                "CAP SMD MLCC 100nF 25V 0603 X7R"                      C1E        CAP_0603_1608                        TopLayer 0        
+1655.197      4262.046      100nF                "CAP SMD MLCC 100nF 25V 0603 X7R"                      C1D        CAP_0603_1608                        TopLayer 0        
+1655.197      5364.410      100nF                "CAP SMD MLCC 100nF 25V 0603 X7R"                      C1C        CAP_0603_1608                        TopLayer 0        
+1655.197      6466.772      100nF                "CAP SMD MLCC 100nF 25V 0603 X7R"                      C1B        CAP_0603_1608                        TopLayer 0        
+1655.197      7569.134      100nF                "CAP SMD MLCC 100nF 25V 0603 X7R"                      C1A        CAP_0603_1608                        TopLayer 0        

@@ -1,0 +1,10 @@
+Output: Report Board Stack metric
+Type  : Report Board Stack
+From  : PCB Document [ltk-mw-display.PcbDoc]
+   Generated File[ltk-mw-display.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 3:18:11 PM On 10/30/2023

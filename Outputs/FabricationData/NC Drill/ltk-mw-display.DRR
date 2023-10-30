@@ -1,0 +1,26 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ltk-mw-display.PcbDoc   10/30/2023  3:18:08 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ltk-mw-display-RoundHoles.TXT
+ASCII SlotHoles File : ltk-mw-display-SlotHoles.TXT
+ASCII RectHoles File : ltk-mw-display-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      14mil (0.35mm)                                            Round             128       PTH        36.53inch (927.74mm)
+T2      32mil (0.8mm)                                             Slot              3         PTH        1.27inch (32.21mm)
+T3      33mil (0.85mm)                                            Round             2         PTH        0.10inch (2.50mm)
+T4      35mil (0.889mm)                                           Round             82        PTH        23.87inch (606.36mm)
+T5      36mil (0.92mm)                                            Round             4         PTH        0.28inch (7.00mm)
+T6      47mil (1.2mm)                                             Round             21        PTH        6.16inch (156.53mm)
+T7      79mil (2mm)                                               Rectangle         4         PTH        2.95inch (75.00mm)
+T8      91mil (2.3mm)                                             Round             2         PTH        0.52inch (13.14mm)
+T9      138mil (3.5mm)                                            Round             8         PTH        17.70inch (449.51mm)
+T10     256mil (6.5mm)                                            Round             3         PTH        1.50inch (38.10mm)
+T11     59mil (1.5mm)                                             Round             6         NPTH       4.35inch (110.43mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              263
+
+Total Processing Time (hh:mm:ss) : 00:00:00

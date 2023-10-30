@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: C:\Users\Shadow\Desktop\Repos\frm-mw-display\ltk-mw-display.PcbDoc
+RuleKind=Clearance|RuleName=PadToViaClearance|Scope=Board|Minimum=1.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansionToHoles|Scope=Board|Minimum=3.94
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=5.91
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=8.00
+RuleKind=Clearance|RuleName=Clearance (FAB)|Scope=Board|Minimum=8.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

@@ -18,10 +18,10 @@ RevisionNamingSchemeGUID=
 Name=030_Assembly.OutJob
 Description=
 TargetOutputMedium=AssemblyData
-VariantName=[No Variations]
-VariantScope=2
+VariantName=MAIN
+VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Brother MFC-J6520DW
+TargetPrinter=Adobe PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer

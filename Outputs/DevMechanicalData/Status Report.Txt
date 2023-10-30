@@ -1,0 +1,10 @@
+Output: AutoCAD dwg/dxf File PCB
+Type  : AutoCAD PCB
+From  : PCB Document [ltk-mw-display.PcbDoc]
+   Generated File[ltk-mw-display.DWG]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 3:19:00 PM On 10/30/2023

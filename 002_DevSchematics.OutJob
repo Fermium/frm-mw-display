@@ -18,8 +18,8 @@ RevisionNamingSchemeGUID=
 Name=002_DevSchematics.OutJob
 Description=
 TargetOutputMedium=DevelopmentSchematics
-VariantName=[No Variations]
-VariantScope=2
+VariantName=MAIN
+VariantScope=1
 CurrentConfigurationName=Sources
 TargetPrinter=Virtual Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=0
